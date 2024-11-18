@@ -29,6 +29,5 @@ class CapitaleV3(): # Pas Héritage ...
     def __str__(self):
         return ("[ " + str(self.ville.nom) + " "+ str(self.ville.pays) + " "
                 + str(self.ville.nombreHabitants) + "]"+ "[" + self.monument + "]")
-
 c2 = CapitaleV2(Ville("Ottawa", "Ca", 1000000), "parlement")
 c3 = CapitaleV3(Ville("Ottawa", "Ca", 1000000), "parlement")
