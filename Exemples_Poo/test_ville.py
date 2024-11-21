@@ -1,5 +1,5 @@
-from Exemple1.ville import Ville
-from Exemple1.capitale import Capitale
+from Exemples_Poo.ville import Ville
+from Exemples_Poo.capitale import Capitale
 
 v1 = Ville(99, "Ca", 4000000)
 print(v1)

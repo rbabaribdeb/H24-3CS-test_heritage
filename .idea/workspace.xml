@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01c4c0d7-e53f-4d77-99f1-5d70393f990a" name="Changes" comment="commit">
-      <change beforePath="$PROJECT_DIR$/Exemple1/capitale.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exemple1/capitale.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Connexion/connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exemple_PyQt6/Exemple1_PyQt6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exemples_Poo/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exemple1/capitale.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exemples_Poo/capitale.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exemple1/test_ville.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exemples_Poo/test_ville.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exemple1/ville.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exemples_Poo/ville.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,18 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "rbabaribdeb"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rbabaribdeb&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/rbabaribdeb/H24-3CS-test_heritage.git",
-    "accountId": "e86d33b7-ca18-4245-870d-51191679584d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rbabaribdeb/H24-3CS-test_heritage.git&quot;,
+    &quot;accountId&quot;: &quot;e86d33b7-ca18-4245-870d-51191679584d&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -47,7 +53,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Exemple1_PyQt6.executor": "Run",
     "Python.Exemple_ville.executor": "Run",
+    "Python.connection.executor": "Run",
     "Python.exemple_liste.executor": "Debug",
     "Python.test_ville.executor": "Run",
     "Python.ville.executor": "Run",
@@ -63,8 +71,40 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rbabari\PycharmProjects\pythonProject" />
+      <recent name="C:\Users\rbabari\PycharmProjects\pythonProject\Exemple1\Exemples_Poo" />
       <recent name="C:\Users\rbabari\PycharmProjects\pythonProject\Exemple1" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Exemple1_PyQt6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exemple_PyQt6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exemple_PyQt6/Exemple1_PyQt6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Exemple1_PyQt6" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -84,6 +124,8 @@
       <updated>1731345725844</updated>
       <workItem from="1731345727588" duration="1275000" />
       <workItem from="1731590164648" duration="4925000" />
+      <workItem from="1731948868199" duration="6269000" />
+      <workItem from="1732195059060" duration="363000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -93,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731594608106</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <option name="closed" value="true" />
+      <created>1731949466166</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731949466166</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,5 +158,7 @@
     <SUITE FILE_PATH="coverage/pythonProject$ville.coverage" NAME="ville Coverage Results" MODIFIED="1731592573410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exemple1" />
     <SUITE FILE_PATH="coverage/pythonProject$exemple_liste.coverage" NAME="exemple_liste Coverage Results" MODIFIED="1731346275675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exemple1" />
     <SUITE FILE_PATH="coverage/pythonProject$test_ville.coverage" NAME="test_ville Coverage Results" MODIFIED="1731593817343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exemple1" />
+    <SUITE FILE_PATH="coverage/pythonProject$Exemple1_PyQt6.coverage" NAME="Exemple1_PyQt6 Coverage Results" MODIFIED="1732195421905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exemple_PyQt6" />
+    <SUITE FILE_PATH="coverage/pythonProject$connection.coverage" NAME="connection Coverage Results" MODIFIED="1732195318093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exemple_PyQt6" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-from Exemple1.ville import Ville
+from Exemples_Poo.ville import Ville
 
 class Capitale(Ville): # Héritage ...
     # constructeur
